@@ -18,14 +18,15 @@ My work sits at the intersection of SaaS, AI agents, self-hosted infrastructure,
   [UnifiedDental.com](https://unifiedental.com)
 
 * **Clarté** — HIPAA-compliant billing intelligence for dental practices, built end-to-end in TypeScript
+  [clarte.unifiedental.com](https://clarte.unifiedental.com)
 
 * **Keepfolio** — a personal finance app for macOS, built on the open-source Finance Guru core
   [Keepfolio.app](https://keepfolio.app)
 
 ## Current focus
 
-* Building with coding agents and prompt-driven development workflows
-* Loop engineering — tightening the iteration loop for AI-assisted software development
+* Building with coding agents and loop-driven development workflows
+* Learning loop engineering — the discipline of tightening the agent iteration loop, not just writing better prompts
 * Building with **TypeScript** and **Rust** as my primary stack, plus **Bun**, **React + Vite**, **Tauri**, and **Supabase**
 * Running and expanding a self-hosted homelab (Proxmox, Tailscale, Home Assistant)
 * Designing tools that make complex workflows easier to manage
@@ -51,7 +52,7 @@ My work sits at the intersection of SaaS, AI agents, self-hosted infrastructure,
 
 ## Background
 
-I spent 11+ years in healthcare operations — pharmacy manager and district leader at CVS Health — before moving full-time into building software, automation, and infrastructure. I hold a Doctorate in Pharmacy, and my work is shaped by business ownership, clinical operations, and a practical bias toward systems that solve real problems.
+My background is in healthcare and pharmacy. Over more than a decade I worked my way up the chain: starting as a pharmacy technician, earning my Doctorate in Pharmacy, practicing as a licensed pharmacist, and advancing into pharmacy management and district-level leadership before moving full-time into building software, automation, and infrastructure. That clinical and operational experience shapes how I build today, with a practical bias toward systems that solve real problems for the people running small businesses.
 
 ---
 
