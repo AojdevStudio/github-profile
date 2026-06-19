@@ -1,40 +1,61 @@
 <!-- === WATCHER HEADER START === -->
-
 <!-- File: README.md -->
-
 <!-- Managed by file watcher -->
-
 <!-- === WATCHER HEADER END === -->
 
-# 👋 Hi, I’m Ossie Irondi
+# Ossie Irondi
 
-I’m the builder behind **AOJ DevStudio**, focused on building SaaS applications, automation workflows, and AI-powered tools that improve productivity for small businesses.
+I build software, automation systems, and AI-powered workflows for small businesses, with a focus on practical tools that reduce operational complexity and improve execution.
 
-## 🚀 What I’m working on
+My work sits at the intersection of SaaS, AI agents, self-hosted infrastructure, and business operations. I build mostly with coding agents, and I'm interested in the engineering discipline around them — structured, loop-driven development workflows that move ideas from concept to working product faster.
 
-* Building practical SaaS tools for small business operations
-* Learning and building with **Cursor**, **Next.js**, **TypeScript**, **Python**, **FastAPI**, **Supabase**, and **Proxmox**
-* Exploring AI development workflows, automation, and infrastructure
-* Creating tools that make complex workflows simpler, faster, and more useful
+## What I'm building
 
-## 🤝 Collaboration
+* **AOJ DevStudio** — AI-assisted development workflows, automation systems, and writing on how I build
+  [AOJDevStudio.me](https://aojdevstudio.me)
 
-I’m interested in collaborating on learning, building, and sharing practical knowledge.
+* **Unified Dental** — consulting, technology, and workflow systems for small dental practices
+  [UnifiedDental.com](https://unifiedental.com)
 
-I strongly believe useful information should be accessible, practical, and easy to understand.
+* **Clarté** — HIPAA-compliant billing intelligence for dental practices, built end-to-end in TypeScript
 
-## 📫 How to reach me
+* **Keepfolio** — a personal finance app for macOS, built on the open-source Finance Guru core
+  [Keepfolio.app](https://keepfolio.app)
 
+## Current focus
+
+* Building with coding agents and prompt-driven development workflows
+* Loop engineering — tightening the iteration loop for AI-assisted software development
+* Building with **TypeScript** and **Rust** as my primary stack, plus **Bun**, **React + Vite**, **Tauri**, and **Supabase**
+* Running and expanding a self-hosted homelab (Proxmox, Tailscale, Home Assistant)
+* Designing tools that make complex workflows easier to manage
+
+## Technical interests
+
+* AI-assisted software development
+* SaaS architecture
+* Workflow automation
+* Self-hosted infrastructure
+* Developer tooling
+* Business operations systems
+* Dental practice technology
+* Personal finance systems
+
+## How to reach me
+
+* Website: [AOJDevStudio.me](https://aojdevstudio.me)
+* Unified Dental: [UnifiedDental.com](https://unifiedental.com)
+* Keepfolio: [Keepfolio.app](https://keepfolio.app)
 * LinkedIn: [Ossie Irondi](https://www.linkedin.com/in/ossieirondi)
 * GitHub: [@AojdevStudio](https://github.com/AojdevStudio)
 
-## ⚡ Fun fact
+## Background
 
-I have a Doctorate degree in Pharmacy and now spend a lot of time building software, automation systems, and AI workflows.
+I spent 11+ years in healthcare operations — pharmacy manager and district leader at CVS Health — before moving full-time into building software, automation, and infrastructure. I hold a Doctorate in Pharmacy, and my work is shaped by business ownership, clinical operations, and a practical bias toward systems that solve real problems.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AojdevStudio&show_icons=true&count_private=true&hide_title=true" alt="Ossie's GitHub Stats" />
@@ -45,5 +66,5 @@ I have a Doctorate degree in Pharmacy and now spend a lot of time building softw
 </p>
 
 <!---
-AojdevStudio/AojdevStudio is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
+AojdevStudio/AojdevStudio is a special repository because its README.md appears on your GitHub profile.
 --->
