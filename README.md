@@ -41,14 +41,17 @@ My work sits at the intersection of SaaS, AI agents, self-hosted infrastructure,
 * Business operations systems
 * Dental practice technology
 * Personal finance systems
+* Church and ministry media technology (ACP Media)
 
 ## How to reach me
 
 * Website: [AOJDevStudio.me](https://aojdevstudio.me)
 * Unified Dental: [UnifiedDental.com](https://unifiedental.com)
 * Keepfolio: [Keepfolio.app](https://keepfolio.app)
+* X: [@AOJDevStudi0](https://x.com/AOJDevStudi0)
 * LinkedIn: [Ossie Irondi](https://www.linkedin.com/in/ossieirondi)
 * GitHub: [@AojdevStudio](https://github.com/AojdevStudio)
+* Book a call: [Calendly](https://calendly.com/admin-unifiedental/discovery-call-60-minutes)
 
 ## Background
 
