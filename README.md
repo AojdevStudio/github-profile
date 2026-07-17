@@ -87,11 +87,11 @@ My background is in healthcare and pharmacy. Over more than a decade I worked my
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AojdevStudio&show_icons=true&count_private=true&hide_title=true" alt="Ossie's GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=AojdevStudio&show_icons=true&count_private=true&hide_title=true" alt="Ossie's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AojdevStudio&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AojdevStudio&layout=compact" alt="Top Languages" />
 </p>
 
 <!---
