@@ -1,15 +1,10 @@
-<!-- === WATCHER HEADER START === -->
-<!-- File: README.md -->
-<!-- Managed by file watcher -->
-<!-- === WATCHER HEADER END === -->
-
 # Ossie Irondi
 
 I build software, automation systems, and AI-powered workflows for small businesses, with a focus on practical tools that reduce operational complexity and improve execution.
 
 My work sits at the intersection of SaaS, AI agents, self-hosted infrastructure, and business operations. I build mostly with coding agents, and I'm interested in the engineering discipline around them — structured, loop-driven development workflows that move ideas from concept to working product faster.
 
-## What I'm building
+## Products
 
 * **AOJ DevStudio** — AI-assisted development workflows, automation systems, and writing on how I build
   [AOJDevStudio.me](https://aojdevstudio.me)
@@ -20,8 +15,38 @@ My work sits at the intersection of SaaS, AI agents, self-hosted infrastructure,
 * **Clarté** — HIPAA-compliant billing intelligence for dental practices, built end-to-end in TypeScript
   [clarte.unifiedental.com](https://clarte.unifiedental.com)
 
+* **Dental Claim Narrator** — AI claim narratives from dental chart notes (Unified Dental)
+  [dcn.unifiedental.com](https://dcn.unifiedental.com)
+
+* **Team Dashboard** — practice operations dashboard and analytics hub (Unified Dental)
+  [workspace.unifiedental.com](https://workspace.unifiedental.com)
+
 * **Keepfolio** — a personal finance app for macOS, built on the open-source Finance Guru core
   [Keepfolio.app](https://keepfolio.app)
+
+* **MicStay** — macOS menu-bar utility that pins your chosen microphone as the system default
+  [micstay.aojdevstudio.me](https://micstay.aojdevstudio.me)
+
+## Community
+
+* **Spirit Talk** — a Discord-gated fellowship for Christian men; the community I'm building
+  [spirit-talk.aojdevstudio.me](https://spirit-talk.aojdevstudio.me)
+
+## Open source
+
+* **[Finance Guru](https://github.com/AojdevStudio/Finance-Guru)** — AI-powered family office / personal finance system; the open core behind Keepfolio
+
+* **[hermes-satellite](https://github.com/AojdevStudio/hermes-satellite)** — remote Hermes execution and satellite verification over authenticated MCP
+
+* **[development-kit](https://github.com/AojdevStudio/development-kit)** — reusable Tauri v2 + React + Rust desktop SaaS kit for regulated apps
+
+* **[dev-bootstrap](https://github.com/AojdevStudio/dev-bootstrap)** — Windows-first developer bootstrap (PowerShell, winget, WSL2, fnm, uv, bun, Claude Code, Codex CLI)
+
+* **[agentic-utilities](https://github.com/AojdevStudio/agentic-utilities)** — harness-agnostic library of Pi extensions, Claude Code plugins, Agent Skills, prompts, and themes
+
+* **[transcript-library](https://github.com/AojdevStudio/transcript-library)** — browse-first knowledge library for YouTube playlist transcripts and curated insights
+
+Coming soon: **playlist-transcripts** — a deeper transcript vault, planned for open source after a security pass.
 
 ## Current focus
 

@@ -1,7 +1,0 @@
-<context_management>
-Maintain awareness of:
-- Previous implementation decisions made in this session
-- Current state of all modified files
-- Integration points that might be affected by changes
-- Technical debt or improvements identified during implementation
-</context_management>
